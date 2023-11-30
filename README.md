@@ -1,4 +1,4 @@
-### Hi, there 👋 I'm Soo Hyun Sim. I am I'm 20 this year. 
+### Hi, there 👋 This is sim soo hyun OSS STUDY 📑. 
 
 <!--
 **simsoohyeon/simsoohyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
