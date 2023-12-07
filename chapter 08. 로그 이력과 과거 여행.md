@@ -18,6 +18,11 @@ $ git checkout HEAD~ HEAD 이전 커밋으로 이동
 (현재 상태가 깨끗해야 checkout 가능)
 $ git checkout - 이전 checkout으로 이동
 ```
-|:---:||:---:||:---:|
-```
+## 🟢 명령 checkout
+|설명|git checkout|git switch|
+|---------------------|-------|---------|
+| 이전 커밋으로 이동 | $ git checkout[이전 커밋] | $ git switch -d[이전 커밋]|
+| 다른 브랜치로 이동 | $ git checkout[branch] | $ git switch[branch] |
+|새로운 브랜치를 생성하고 이동 | $ git checkout -b[new branch] | $ git switch -c[new branch] |
+
 
