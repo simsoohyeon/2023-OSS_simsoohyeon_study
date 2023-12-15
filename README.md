@@ -1,4 +1,4 @@
-### Hi, there 👋 This is sim soo hyun OSS STUDY 📑. 
+### 2023 오픈소스소프트웨어 교과목을 정리한 깃허브 저장소입니다 💻 
 
 <!--
 **simsoohyeon/simsoohyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
